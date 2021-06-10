@@ -1,2 +1,2 @@
 .ipynb_checkpoints/
-test*.ipynb
+test[a-z0-9].ipynb
