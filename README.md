@@ -1,6 +1,6 @@
 # Trading Automation
 
-I want to thanks the developer of [yfianace library] (https://github.com/ranaroussi/yfinance) , which is the core for this project.
+I want to thanks the developer of [yfianace library](https://github.com/ranaroussi/yfinance) , which is the core for this project.
 
 A program to get a details on status of current holding to make a call for the stocks and it give answer on questions such as:
 
