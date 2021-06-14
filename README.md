@@ -12,7 +12,8 @@ A program to get a details on status of current holding to make a call for the s
 
 For this app we will be giving an input of stocklist as an excel file, and it's the only dependency to get the actual output.
 
-> **Note** When you clone the repo, you have make a change in the path where you are going to store the stocklist.xlsx file. For this repo it's in onedrive you can keep it in any destination.
+> **Note:** When you clone the repo, you have make a change in the path where you are going to store the stocklist.xlsx file. For this repo it's in onedrive you can keep it in any destination.
+> 
 > `stocks_list = pd.read_excel(OneDrive + "stockslist.xlsx")`
 
 Have user define funtions to get insights
